@@ -5,7 +5,7 @@ using NetTopologySuite.Geometries;
 using Npgsql;
 using NpgsqlTypes;
 
-namespace WhateverBackend {
+namespace VehicleNetBackend {
     public class DbCtx : DbContext
     {
         public DbSet<Vehicle> Vehicles { get; set; }

@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>whatever_backend</RootNamespace>
+    <RootNamespace>VehicleNetBackend</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
