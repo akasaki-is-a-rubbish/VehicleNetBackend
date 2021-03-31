@@ -1,0 +1,3 @@
+[submodule "frontend/MusicCloud"]
+	path = frontend/MusicCloud
+	url = https://github.yuuza.net/akasaki-is-a-rubbish/MusicCloud.git
