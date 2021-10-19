@@ -9,6 +9,9 @@ namespace VehicleNetBackend
         [Column("id")]
         public long Id { get; set; }
 
+        [Column("owner")]
+        public long Owner { get; set; }
+
         [Column("name")]
         public string Name { get; set; }
 
